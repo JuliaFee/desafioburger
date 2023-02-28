@@ -24,3 +24,16 @@ nav {
     display: flex;
     justify-content: center;
 }
+ul {
+    list-style: none;
+    display: flex;
+    text-align: center;
+    padding: 0%;
+}
+li {
+    margin-left: 60px;
+}
+li:hover {
+    background-color: gray;
+
+}
