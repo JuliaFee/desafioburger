@@ -1,0 +1,21 @@
+body{
+background-color:rgb(212, 144, 34) ;
+margin: 0%;
+}
+    
+header{
+text-align: center;
+background-color:rgb(212, 144, 34) ;   
+}
+
+.anav{
+color:white;
+text-decoration: none;
+display:block;
+font-family:'berlin sans fb';
+} 
+
+.logo{
+width: 64px;    
+height: 64px;
+}
