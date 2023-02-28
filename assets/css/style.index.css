@@ -2,16 +2,28 @@ body{
     font-family:'berlin sans fb'
 }
 .pcard{
-    border-left: orange;
-    border-radius: 5px;
+    border-left: 30px solid orange;
+    border-radius: 10px;
     box-shadow: 7px 7px 13px 0px rgba(50, 50, 50, 0.22);
     padding: 30px;
     margin: 20px;
 }
 #burgerm{
     width: 500px;
+    padding: 5px;
 }
 #sectionum{
     display: flex;
     font-size: 20px;
+}
+#textop{
+    border-left: 5px;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+#legendatitulo{
+    font-size: 15px;
+    text-align: center;
 }
