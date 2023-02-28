@@ -1,6 +1,22 @@
-input{
+form{
     display: flex;
     flex-direction: column;
     margin: auto;
     width: 50%;
+}
+#enviar{
+    background-color: black;
+    color:orange;
+    margin-top: 10px;
+}
+#enviar:hover{
+    background-color:rgb(111, 82, 29);
+}
+input{
+    margin-bottom: auto;
+    border-radius: 10px;
+    height: 30px;
+}
+body{
+    background-color: antiquewhite;
 }
