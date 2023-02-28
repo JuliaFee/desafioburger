@@ -1,13 +1,14 @@
 body {
     margin:0%;
+
 }
 footer {
     text-align: center;
-    background-color: rgb(212, 144, 34);
+    background-color: rgb(244, 177, 69);
     padding-bottom: 0%;
 }
 .p1 {
+    font-family: 'berlin sans fb';
     font-size: 15px;
-    font-family: Comic sans-serif;
     color: whitesmoke;
 }
