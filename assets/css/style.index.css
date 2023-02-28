@@ -1,3 +1,11 @@
 body{
     font-family:'berlin sans fb'
 }
+.pcard{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+#burgerm{
+    width: 500px;
+}
