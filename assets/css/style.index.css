@@ -1,6 +1,7 @@
 body{
     font-family:'berlin sans fb';
     padding: 0px;
+    margin: 0;
 }
 .pcard{
     border-left: 30px solid orange;
