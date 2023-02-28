@@ -3,6 +3,7 @@ body{
     font-family: 'berlin sans fb';
     margin: 0;
     padding: 0;
+    text-decoration: none;
 }
 
 h1{
@@ -15,6 +16,7 @@ h1{
     box-shadow: 7px 7px 13px 0px rgba(50, 50, 50, 0.22);
     padding: 30px;
     margin: 20px;
+    text-decoration: none;
 }
 #card2{
     border-left: 30px solid orange;
@@ -22,6 +24,7 @@ h1{
     box-shadow: 7px 7px 13px 0px rgba(50, 50, 50, 0.22);
     padding: 30px;
     margin: 20px;
+    text-decoration: none;
 }
 #equipe{
     border-left: 30px solid orange;
@@ -31,6 +34,8 @@ h1{
     margin: 20px;
     flex-direction: column;
     text-align: justify;
+    text-decoration: none;
+    color: black
 
 }
 #equipe2{
@@ -41,15 +46,22 @@ h1{
     margin: 20px;
     flex-direction: column;
     text-align: justify;
+    text-decoration: none;
+    color: black
 }
 
 #lu {
     display: flex;
+    text-decoration: none;
 }
 #lu2{
 display: flex;
+text-decoration: none;
 }
 img {
     width: 180px;
     height: 100px;
+}
+a {
+    text-decoration: none;
 }
