@@ -2,10 +2,16 @@ body{
     font-family:'berlin sans fb'
 }
 .pcard{
-    display: flex;
-    flex-direction: column;
-    text-align: center;
+    border-left: orange;
+    border-radius: 5px;
+    box-shadow: 7px 7px 13px 0px rgba(50, 50, 50, 0.22);
+    padding: 30px;
+    margin: 20px;
 }
 #burgerm{
     width: 500px;
+}
+#sectionum{
+    display: flex;
+    font-size: 20px;
 }
