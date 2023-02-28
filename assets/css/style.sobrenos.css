@@ -2,7 +2,35 @@ body{
     background-color: blanchedalmond;
 }
 
-
 h1{
     text-align: center;
+    
+}
+#card{
+    border-left: 30px solid orange;
+    border-radius: 10px;
+    box-shadow: 7px 7px 13px 0px rgba(50, 50, 50, 0.22);
+    padding: 30px;
+    margin: 20px;
+}
+#card2{
+    border-left: 30px solid orange;
+    border-radius: 10px;
+    box-shadow: 7px 7px 13px 0px rgba(50, 50, 50, 0.22);
+    padding: 30px;
+    margin: 20px;
+}
+#equipe{
+    border-left: 30px solid orange;
+    border-radius: 10px;
+    box-shadow: 7px 7px 13px 0px rgba(50, 50, 50, 0.22);
+    padding: 30px;
+    margin: 20px;
+    flex-direction: column;
+    text-align: justify;
+
+}
+
+#lu {
+    display: flex;
 }
