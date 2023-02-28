@@ -1,0 +1,13 @@
+body {
+    margin:0%;
+}
+footer {
+    text-align: center;
+    background-color: rgb(212, 144, 34);
+    padding-bottom: 0%;
+}
+.p1 {
+    font-size: 15px;
+    font-family: Comic sans-serif;
+    color: whitesmoke;
+}
