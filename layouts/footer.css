@@ -5,6 +5,7 @@ footer {
     text-align: center;
     background-color: rgb(244, 177, 69);
     padding-bottom: 0%;
+    position:fixed 0%;
 }
 .p1 {
     font-family: 'berlin sans fb';
