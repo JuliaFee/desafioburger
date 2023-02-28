@@ -19,3 +19,8 @@ font-family:'berlin sans fb';
 width: 64px;    
 height: 64px;
 }
+
+nav {
+    display: flex;
+    justify-content: center;
+}
