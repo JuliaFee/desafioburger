@@ -8,6 +8,7 @@ form{
     background-color: black;
     color:orange;
     margin-top: 10px;
+    align-items: center;
 }
 #enviar:hover{
     background-color:rgb(111, 82, 29);
