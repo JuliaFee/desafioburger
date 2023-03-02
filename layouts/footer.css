@@ -3,13 +3,16 @@ body {
     bottom: 0%;
     padding-bottom: 0%;
     position: fixed;
+    text-align: center;
 }
 footer {
     text-align: center;
     background-color: rgb(236, 178, 53);
+    margin: 0%;
+
 }
 .p1 {
     font-size: 15px;
-    font-family: 'comic sans ms';
+    font-family: 'berlin sans fb';
     color: whitesmoke;
 }

@@ -66,4 +66,6 @@ img {
 a {
     text-decoration: none;
 }
-
+p {
+    text-align: justify;
+}
