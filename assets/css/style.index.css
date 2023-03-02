@@ -38,16 +38,13 @@ h1{
     text-align: center;
 }
 .imagemcombo{
-    width: 100%;
+    width: 100px;
 }
 .imagemcombo3{
     width: 80%;
 }
 .imagemfoto{
-    width: 50%;
-}
-.combo{
-    text-align:
+    width: 60%;
 }
 #dibola{
     display: flex;
