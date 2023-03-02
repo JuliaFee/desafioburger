@@ -1,5 +1,12 @@
 body{
+<<<<<<< HEAD
     background-color: blanchedalmond;
+=======
+    font-family: 'berlin sans fb';
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+>>>>>>> 3ccec387d3db6e04b7661d90d74d11a41553895a
 }
 
 h1{
@@ -12,6 +19,7 @@ h1{
     box-shadow: 7px 7px 13px 0px rgba(50, 50, 50, 0.22);
     padding: 30px;
     margin: 20px;
+    text-decoration: none;
 }
 #card2{
     border-left: 30px solid orange;
@@ -19,6 +27,7 @@ h1{
     box-shadow: 7px 7px 13px 0px rgba(50, 50, 50, 0.22);
     padding: 30px;
     margin: 20px;
+    text-decoration: none;
 }
 #equipe{
     border-left: 30px solid orange;
@@ -28,9 +37,40 @@ h1{
     margin: 20px;
     flex-direction: column;
     text-align: justify;
+    text-decoration: none;
+    color: black
 
 }
+<<<<<<< HEAD
+=======
+#equipe2{
+    border-left: 30px solid orange;
+    border-radius: 10px;
+    box-shadow: 7px 7px 13px 0px rgba(50, 50, 50, 0.22);
+    padding: 10px;
+    margin: 20px;
+    flex-direction: column;
+    text-align: justify;
+    text-decoration: none;
+    color: black
+}
+>>>>>>> 3ccec387d3db6e04b7661d90d74d11a41553895a
 
 #lu {
     display: flex;
+    text-decoration: none;
 }
+<<<<<<< HEAD
+=======
+#lu2{
+display: flex;
+text-decoration: none;
+}
+img {
+    width: 180px;
+    height: 100px;
+}
+a {
+    text-decoration: none;
+}
+>>>>>>> 3ccec387d3db6e04b7661d90d74d11a41553895a

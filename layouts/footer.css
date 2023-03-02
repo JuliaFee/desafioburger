@@ -1,7 +1,6 @@
-body {
-    margin:0%;
-}
-footer {
+body{
+    margin: 0;
+    font-family: sans-serif;
     text-align: center;
     background-color: rgb(244, 177, 69);
     padding-bottom: 0%;
