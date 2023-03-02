@@ -21,7 +21,8 @@ body{
 }
 #burgerm{
     width: 500px;
-    padding: 5px;
+    height:200px;
+    padding: 30px;
 }
 #sectionum{
     display: flex;
@@ -39,11 +40,10 @@ h1{
     text-align: center;
 }
 .imagemcombo{
-    width: 200px;
+    width: 250px;
+    height: 155px;
 }
-.imagemcombo3{
-    width: 40%;
-}
+
 .imagemfoto{
     width: 50%;
 }
