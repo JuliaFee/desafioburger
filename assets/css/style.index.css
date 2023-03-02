@@ -51,6 +51,7 @@ h1{
 #dibola{
     display: flex;
 }
-footer{
+#footer{
     margin-top: 35px;
+    margin-bottom: -5px;
 }
