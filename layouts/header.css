@@ -12,13 +12,14 @@ background-color:rgb(244, 177, 69) ;
 color:white;
 text-decoration: none;
 display:block;
-font-family:'berlin sans fb';
+font-family:'berlin sans fb'; 
 } 
 
 .logo{
 width: 64px;    
 height: 64px;
 padding-left: 47px;
+margin-top: 5px;
 }
 
 nav {
