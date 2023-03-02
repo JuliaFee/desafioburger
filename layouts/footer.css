@@ -1,15 +1,15 @@
-body{
-    bottom: 0%;
-    position:fixed;
+body {
     margin: 0%;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    bottom: 0%;
+    padding-bottom: 0%;
+    position: fixed;
+}
+footer {
     text-align: center;
-    background-color: rgb(244, 177, 69);
-    position:fixed;
+    background-color: rgb(236, 178, 53);
 }
 .p1 {
-    font-family: 'berlin sans fb';
     font-size: 15px;
-    color: rgb(0, 0, 0);
-    
+    font-family: 'comic sans ms';
+    color: whitesmoke;
 }
