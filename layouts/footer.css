@@ -1,18 +1,14 @@
 body{
     margin: 0;
-    font-family:'berlin sans fb';
+    font-family: sans-serif;
     text-align: center;
-}
-footer{
     background-color: rgb(244, 177, 69);
-    color: #fff;
-    padding: 0;
-    height: 100%;
-    width: 100%;
-    position: fixed;
-    bottom: 0px;
+    padding-bottom: 0%;
+    position:fixed 0%;
 }
-#logo{
-    width: 64px;
-    height: 64px;
+.p1 {
+    font-family: 'berlin sans fb';
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+    
 }
