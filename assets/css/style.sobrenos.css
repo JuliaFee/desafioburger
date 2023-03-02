@@ -16,6 +16,7 @@ h1{
     padding: 30px;
     margin: 20px;
     text-decoration: none;
+    height: auto;
 
 }
 #card2{
@@ -25,6 +26,7 @@ h1{
     padding: 30px;
     margin: 20px;
     text-decoration: none;
+    height: auto;
 
 }
 #equipe{
@@ -37,7 +39,7 @@ h1{
     text-align: justify;
     text-decoration: none;
     color: black;
-    height: 90%;
+    height: auto;
 
 }
 #equipe2{
@@ -50,7 +52,7 @@ h1{
     text-align: justify;
     text-decoration: none;
     color: black;
-    height: 100%;
+    height: auto;
 }
 #lu {
     display: flex;
@@ -63,12 +65,13 @@ text-decoration: none;
 }
 img {
     width: 180px;
-    height: 100px;
+    height: auto;
 }
 a {
     text-decoration: none;
 }
 p {
     text-align: justify;
+    height: auto;
     
 }
