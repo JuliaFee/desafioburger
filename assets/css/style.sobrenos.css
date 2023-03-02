@@ -16,6 +16,7 @@ h1{
     padding: 30px;
     margin: 20px;
     text-decoration: none;
+    box-shadow: 7px 7px 13px 0px;
 }
 #card2{
     border-left: 30px solid orange;
@@ -24,6 +25,7 @@ h1{
     padding: 30px;
     margin: 20px;
     text-decoration: none;
+    box-shadow: 7px 7px 13px 0px;
 }
 #equipe{
     border-left: 30px solid orange;
