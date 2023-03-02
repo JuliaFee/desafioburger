@@ -18,8 +18,8 @@ font-family:'berlin sans fb';
 .logo{
 width: 64px;    
 height: 64px;
-padding-left: 47px;
 margin-top: 5px;
+text-align: center;
 }
 
 nav {
@@ -30,7 +30,8 @@ ul {
     list-style: none;
     display: flex;
     text-align: center;
-    padding: 0%;
+    padding: 0;
+    margin: 0;
 }
 li {
     margin-left: 60px;
