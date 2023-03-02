@@ -3,6 +3,7 @@ form{
     flex-direction: column;
     margin: auto;
     width: 50%;
+    padding-top: 50px;
 }
 #enviar{
     background-color: black;
@@ -16,6 +17,11 @@ input{
     margin-bottom: auto;
     border-radius: 10px;
     height: 30px;
+    padding: 5px;
+}
+label{
+    
+    font-size: 15px;
 }
 body{
     background-color: rgb(255, 255, 255);
