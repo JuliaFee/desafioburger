@@ -65,7 +65,7 @@ text-decoration: none;
 }
 img {
     width: 180px;
-    height: 100px;
+    height: auto;
 }
 a {
     text-decoration: none;
