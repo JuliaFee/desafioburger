@@ -1,5 +1,6 @@
 body{
-    font-family:'berlin sans fb'
+    font-family:'berlin sans fb';
+    margin: 0;
 }
 .pcard{
     border-left: 30px solid orange;
@@ -39,7 +40,7 @@ h1{
     width: 100px;
 }
 .imagemcombo3{
-    width: 80%;
+    width: 40%;
 }
 .imagemfoto{
     width: 60%;
