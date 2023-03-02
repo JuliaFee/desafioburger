@@ -1,7 +1,6 @@
 body{
 background-color:rgb(244, 177, 69) ;
 margin: 0%;
-width: 100%;
 }
     
 header{
@@ -19,6 +18,7 @@ font-family:'berlin sans fb';
 .logo{
 width: 64px;    
 height: 64px;
+padding-left: 47px;
 }
 
 nav {

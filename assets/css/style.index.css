@@ -1,7 +1,5 @@
 body{
-    font-family:'berlin sans fb';
-    padding: 0px;
-    margin: 0;
+    font-family:'berlin sans fb'
 }
 .pcard{
     border-left: 30px solid orange;
@@ -38,15 +36,20 @@ h1{
     text-align: center;
 }
 .imagemcombo{
-    width: 100%;
+    width: 100px;
 }
 .imagemcombo3{
     width: 80%;
 }
 .imagemfoto{
+<<<<<<< HEAD
     width: 50%;
 }
 
+=======
+    width: 60%;
+}
+>>>>>>> 36c214e51e4d25d6443131b1f92c590f27077be6
 #dibola{
     display: flex;
 }
