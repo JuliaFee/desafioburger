@@ -75,3 +75,14 @@ p {
     height: auto;
     
 }
+#fachada {
+    height: auto;
+    width: auto;
+    align-items: center;
+
+}
+h2{
+    text-align: center;
+    font-size: 25px;
+    
+}
