@@ -3,6 +3,8 @@ body {
     bottom: 0%;
     text-align: center;
     background-color: rgb(240, 185, 83);
+    position: fixed;
+    bottom: 0%;
 }
 footer {
     text-align: center;
