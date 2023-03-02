@@ -45,8 +45,14 @@ h1{
     width: 40%;
 }
 .imagemfoto{
+<<<<<<< HEAD
+    width: 50%;
+}
+
+=======
     width: 60%;
 }
+>>>>>>> 36c214e51e4d25d6443131b1f92c590f27077be6
 #dibola{
     display: flex;
 }
