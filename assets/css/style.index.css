@@ -1,5 +1,6 @@
 body{
-    font-family:'berlin sans fb'
+    font-family:'berlin sans fb';
+    margin: 0;
 }
 .pcard{
     border-left: 30px solid orange;
@@ -7,6 +8,7 @@ body{
     box-shadow: 7px 7px 13px 0px rgba(50, 50, 50, 0.22);
     padding: 30px;
     margin: 20px;
+    width: 50%;
 }
 .pcarddois{
     border-left: 30px solid orange;
@@ -36,10 +38,10 @@ h1{
     text-align: center;
 }
 .imagemcombo{
-    width: 100px;
+    width: 200px;
 }
 .imagemcombo3{
-    width: 80%;
+    width: 40%;
 }
 .imagemfoto{
 <<<<<<< HEAD
